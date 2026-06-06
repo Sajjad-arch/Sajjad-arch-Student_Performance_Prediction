@@ -98,3 +98,7 @@ Make sure `students_performance.csv` is in the same directory as the script or n
 - **Matplotlib / Seaborn** — visualizations
 - **SciPy** — statistical tests (Shapiro-Wilk, t-test)
 - **NumPy** — numerical computations and sampling
+
+## Author
+
+**Sajjad** — CSE Student, Southeast University (SEU), Dhaka
